@@ -4,6 +4,11 @@ Duct module that wrapping configuration for Ragtime migrations. We got a feeling
 
 Of course there are still some loose ends. For one, it could be more explicit about the ordering of migrations.
 
+## Instalation
+```
+[hydrogen/module.ragtime-wrapper "0.1.0"]
+```
+
 ## Usage
 
 Istead of adding `:migrations [#ig/ref ... #ig/ref ...]` and a bunch of key definitions just add this to your ragtime config:
