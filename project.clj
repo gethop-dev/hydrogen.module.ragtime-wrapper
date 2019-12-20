@@ -1,4 +1,4 @@
-(defproject hydrogen/module.ragtime-wrapper "0.1.0"
+(defproject hydrogen/module.ragtime-wrapper "0.1.1-SNAPSHOT"
   :description "Duct module wrapping configuration for Ragtime migrations"
   :url "https://github.com/magnetcoop/hydrogen.module.ragtime-wrapper"
   :license {:name "Mozilla Public Licence 2.0"
