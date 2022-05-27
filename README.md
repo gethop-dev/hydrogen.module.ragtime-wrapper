@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/magnetcoop/hydrogen.module.ragtime-wrapper.svg?branch=master)](https://travis-ci.com/magnetcoop/hydrogen.module.ragtime-wrapper)
+[![ci-cd](https://github.com/gethop-dev/module.ragtime-wrapper/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/gethop-dev/module.ragtime-wrapper/actions/workflows/ci-cd.yml)
 
 # module.ragtime-wrapper
 
