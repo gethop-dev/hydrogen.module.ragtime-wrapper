@@ -14,5 +14,5 @@
                                       :username :env/CLOJARS_USERNAME
                                       :password :env/CLOJARS_PASSWORD
                                       :sign-releases false}]]
-  :profiles {:dev {:plugins [[lein-cljfmt "0.6.6"]
-                             [jonase/eastwood "0.3.5"]]}})
+  :profiles {:dev {:plugins [[lein-cljfmt "0.8.0"]
+                             [jonase/eastwood "1.2.3"]]}})
