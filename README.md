@@ -8,14 +8,14 @@ Of course there are still some loose ends. For one, it could be more explicit ab
 
 ## Instalation
 
-[![Clojars Project](https://clojars.org/hydrogen/module.ragtime-wrapper/latest-version.svg)](https://clojars.org/hydrogen/module.ragtime-wrapper)
+[![Clojars Project](https://clojars.org/dev.gethop/module.ragtime-wrapper/latest-version.svg)](https://clojars.org/dev.gethop/module.ragtime-wrapper)
 
 ## Usage
 
 First of all the following key has to be added to the`config.edn`. Take into account that it's a module key, so it should be placed outside the :duct.profile/base key map.
 
 ``` edn
-:hydrogen.module/ragtime-wrapper {}
+:dev.gethop.module/ragtime-wrapper {}
 ```
 
 Then instead of adding `:migrations [#ig/ref ... #ig/ref ...]` and a bunch of key definitions just add this to your ragtime config:

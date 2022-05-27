@@ -2,7 +2,7 @@
 ;; License, v. 2.0. If a copy of the MPL was not distributed with this
 ;; file, You can obtain one at http://mozilla.org/MPL/2.0/
 
-(ns hydrogen.module.ragtime-wrapper
+(ns dev.gethop.module.ragtime-wrapper
   (:require [clojure.string :as str]
             [duct.core :as core]
             [integrant.core :as ig]))
@@ -18,7 +18,7 @@
 (defn- migrations-refs [migration-namespace migrations-paths]
   (mapv #(ig/ref (migration-keyword migration-namespace %)) migrations-paths))
 
-(defmethod ig/init-key :hydrogen.module/ragtime-wrapper [_ _]
+(defmethod ig/init-key :dev.gethop.module/ragtime-wrapper [_ _]
   (fn [config]
     (core/merge-configs
      config
