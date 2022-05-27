@@ -1,4 +1,4 @@
-(defproject dev.gethop/module.ragtime-wrapper "0.1.1-SNAPSHOT"
+(defproject dev.gethop/module.ragtime-wrapper "0.1.1"
   :description "Duct module wrapping configuration for Ragtime migrations"
   :url "https://github.com/gethop-dev/module.ragtime-wrapper"
   :license {:name "Mozilla Public Licence 2.0"
