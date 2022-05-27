@@ -6,7 +6,7 @@
 
 Of course there are still some loose ends. For one, it could be more explicit about the ordering of migrations.
 
-## Instalation
+## Installation
 
 [![Clojars Project](https://clojars.org/dev.gethop/module.ragtime-wrapper/latest-version.svg)](https://clojars.org/dev.gethop/module.ragtime-wrapper)
 
@@ -38,6 +38,6 @@ A complete example:
 
 ## License
 
-Copyright (c) 2019, 2020 Magnet S Coop.
+Copyright (c) HOP Technologies
 
 The source code for the library is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
