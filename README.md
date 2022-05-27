@@ -15,7 +15,7 @@ Of course there are still some loose ends. For one, it could be more explicit ab
 First of all the following key has to be added to the`config.edn`. Take into account that it's a module key, so it should be placed outside the :duct.profile/base key map.
 
 ``` edn
-:dev.gethop.module/ragtime-wrapper {}
+:hydrogen.module/ragtime-wrapper {}
 ```
 
 Then instead of adding `:migrations [#ig/ref ... #ig/ref ...]` and a bunch of key definitions just add this to your ragtime config:
