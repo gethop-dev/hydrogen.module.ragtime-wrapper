@@ -7,12 +7,12 @@
                  [duct/core "0.8.0"]
                  [integrant "0.7.0"]]
                    :deploy-repositories [["snapshots" {:url "https://clojars.org/repo"
-                                      :username :env/clojars_username
-                                      :password :env/clojars_password
+                                      :username :env/CLOJARS_USERNAME
+                                      :password :env/CLOJARS_PASSWORD
                                       :sign-releases false}]
                         ["releases"  {:url "https://clojars.org/repo"
-                                      :username :env/clojars_username
-                                      :password :env/clojars_password
+                                      :username :env/CLOJARS_USERNAME
+                                      :password :env/CLOJARS_PASSWORD
                                       :sign-releases false}]]
   :profiles {:dev {:plugins [[lein-cljfmt "0.6.6"]
                              [jonase/eastwood "0.3.5"]]}})
