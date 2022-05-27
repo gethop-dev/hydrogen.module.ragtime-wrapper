@@ -1,6 +1,6 @@
 [![ci-cd](https://github.com/gethop-dev/module.ragtime-wrapper/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/gethop-dev/module.ragtime-wrapper/actions/workflows/ci-cd.yml)
 
-# module.ragtime-wrapper
+# hydrogen.module.ragtime-wrapper
 
 [Duct](https://github.com/duct-framework/duct) module that wraps the configuration for Ragtime migrations. We got a feeling that writing them by hand takes way too much space in config.
 
