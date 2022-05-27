@@ -1,4 +1,5 @@
 [![ci-cd](https://github.com/gethop-dev/module.ragtime-wrapper/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/gethop-dev/module.ragtime-wrapper/actions/workflows/ci-cd.yml)
+[![Clojars Project](https://img.shields.io/clojars/v/dev.gethop/hydrogen.module.ragtime-wrapper.svg)](https://clojars.org/dev.gethop/hydrogen.module.ragtime-wrapper)
 
 # hydrogen.module.ragtime-wrapper
 
