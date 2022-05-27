@@ -1,4 +1,4 @@
-(defproject dev.gethop/hydrogen.module.ragtime-wrapper "0.1.2-SNAPSHOT"
+(defproject dev.gethop/hydrogen.module.ragtime-wrapper "0.1.2"
   :description "Duct module wrapping configuration for Ragtime migrations"
   :url "https://github.com/gethop-dev/hydrogen.module.ragtime-wrapper"
   :license {:name "Mozilla Public Licence 2.0"
