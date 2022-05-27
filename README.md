@@ -8,7 +8,7 @@ Of course there are still some loose ends. For one, it could be more explicit ab
 
 ## Installation
 
-[![Clojars Project](https://clojars.org/dev.gethop/module.ragtime-wrapper/latest-version.svg)](https://clojars.org/dev.gethop/module.ragtime-wrapper)
+[![Clojars Project](https://clojars.org/dev.gethop/hydrogen.module.ragtime-wrapper/latest-version.svg)](https://clojars.org/dev.gethop/hydrogen.module.ragtime-wrapper)
 
 ## Usage
 

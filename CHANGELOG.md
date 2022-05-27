@@ -16,6 +16,6 @@ All notable changes to this project will be documented in this file. This change
 ## [0.1.0] - 2019-12-20
 - Initial commit
 
-[Unreleased]: https://github.com/gethop-dev/module.ragtime-wrapper/compare/v0.1.1...HEAD
-[0.1.1]:  https://github.com/gethop-dev/module.ragtime-wrapper/releases/tag/v0.1.1
-[0.1.0]:  https://github.com/gethop-dev/module.ragtime-wrapper/releases/tag/v0.1.0
+[Unreleased]: https://github.com/gethop-dev/hydrogen.module.ragtime-wrapper/compare/v0.1.1...HEAD
+[0.1.1]:  https://github.com/gethop-dev/hydrogen.module.ragtime-wrapper/releases/tag/v0.1.1
+[0.1.0]:  https://github.com/gethop-dev/hydrogen.module.ragtime-wrapper/releases/tag/v0.1.0
